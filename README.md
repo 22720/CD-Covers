@@ -1,7 +1,5 @@
 # CD-Covers
 
-Opdrachtgever: Mediacollege Amsterdam
-
 Opdracht: De opdracht was het maken van een site met cd covers er op.
 Als je over de cd covers zou hoveren met je muis dat je dan de nummers van dat album te zien zou krijgen.
 
